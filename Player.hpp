@@ -2,6 +2,6 @@
 
 struct Player
 {
-    bool        ID;
+    int        ID;
     std::string m_name;
 };
